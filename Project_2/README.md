@@ -1,8 +1,6 @@
 # Project_2
 
-Here is the README file based on the details provided:
 
----
 
 # Online Food Ordering System
 
