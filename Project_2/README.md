@@ -1,6 +1,3 @@
-# Project_2
-
-
 
 # Online Food Ordering System
 
